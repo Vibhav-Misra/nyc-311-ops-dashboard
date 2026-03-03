@@ -4,6 +4,10 @@ An end-to-end analytics project modeling 5M+ NYC 311 service requests using a Po
 
 ---
 
+![NYC 311 Dashboard](docs/dashboard_screenshots/page1_executive_overview.png)
+
+---
+
 ## Business Objective
 
 New York City’s 311 system processes millions of service requests annually across agencies (housing, sanitation, noise, infrastructure, etc.).
