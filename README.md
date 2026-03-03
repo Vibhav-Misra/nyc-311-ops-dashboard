@@ -75,7 +75,7 @@ pbix/ → (Not included – see link below)
 
 Power BI (.pbix) file available here:
 
-🔗 [Download PBIX File](https://drive.google.com/file/d/12NjrbvSaLXZ5ZbcQLxaovRwWsoIrb8Jy/view?usp=sharing)
+[Download PBIX File](https://drive.google.com/file/d/12NjrbvSaLXZ5ZbcQLxaovRwWsoIrb8Jy/view?usp=sharing)
 
 ---
 
