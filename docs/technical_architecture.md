@@ -180,14 +180,3 @@ This architecture can be extended by:
 - Migrating PostgreSQL to cloud (AWS RDS / Azure)
 - Publishing Power BI via Power BI Service
 The model is compatible with larger-scale civic analytics deployments.
----
-# 11. Summary
-This project demonstrates:
-- Data ingestion via API
-- SQL-based data cleaning
-- Dimensional modeling (star schema)
-- Advanced backlog reconstruction logic
-- Performance-optimized warehouse design
-- Executive-ready BI development
-It bridges analytics engineering and operational analytics, transforming open civic data into
-structured decision-support intelligence.

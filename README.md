@@ -66,7 +66,7 @@ Screenshots available in `/docs/dashboard_screenshots/`
 
 ## Repository Structure
 sql/ → Production SQL scripts
-docs/ → Insights, KPIs, data dictionary, architecture
+docs/ → Insights, KPIs, data dictionary, architecture, Screenshots
 pbix/ → (Not included – see link below)
 
 ---
@@ -85,6 +85,7 @@ Power BI (.pbix) file available here:
 - [KPI Definitions](docs/kpi_definitions.md)
 - [Data Dictionary](docs/data_dictionary.md)
 - [Technical Architecture](docs/technical_architecture.md)
+- [Dashboard Screenshots](docs/dashboard_screenshots)
 
 ---
 
